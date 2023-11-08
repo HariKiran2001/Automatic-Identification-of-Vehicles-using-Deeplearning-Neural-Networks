@@ -1,0 +1,13 @@
+numpy
+scipy
+scikit-image
+tensorflow>1.4.0
+opencv-python
+packaging
+
+
+by runnig 
+
+python main.py imshow    
+
+python main.py imwrite    
